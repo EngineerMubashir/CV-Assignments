@@ -1,20 +1,4 @@
-# CV-Assignments
-This repository is for uploading Computer Vision Assignments
-I can help you write the README file for your assignment. Let me analyze the uploaded Jupyter Notebook to extract its purpose, functionalities, and key details.
-
-The notebook appears to involve computer vision techniques, particularly the creation of a hybrid image using low-pass and high-pass filters. It processes images uploaded by the user and performs the following steps:
-
-1. **Image Upload:** Users upload two images, typically of two group members.
-2. **Preprocessing:** Resizes images to a standard dimension.
-3. **Filtering:**
-   - Applies a low-pass filter (Gaussian Blur) to the first image.
-   - Extracts the high-frequency components from the second image using a high-pass filter.
-4. **Hybrid Image Creation:** Combines the processed images to create a hybrid image that merges low-frequency content from one image and high-frequency content from the other.
-5. **Display:** Visualizes the results using matplotlib.
-
-Let me draft a README file for this assignment.
-
-# README for Computer Vision Assignment 01
+Computer Vision Assignment 01
 
 ## Overview
 
