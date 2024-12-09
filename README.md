@@ -19,6 +19,9 @@ This project is a **Computer Vision Assignment** that demonstrates the creation 
 1. **Image Input:**
    - Allows users to upload two images (e.g., of group members).
    - Images are processed in grayscale for simplicity.
+   - 
+![FB_IMG_1733729695103](https://github.com/user-attachments/assets/1bffc5f0-575b-4eb6-a520-451661e32dc9)
+![pic](https://github.com/user-attachments/assets/3fa0693f-ea40-4f82-878e-d89a88dbc44e)
 
 2. **Image Preprocessing:**
    - Resizes the uploaded images to a standard dimension of 500x500 pixels.
@@ -83,21 +86,19 @@ pip install opencv-python-headless numpy matplotlib
 ## Results
 
 The hybrid image combines the dominant features of one image (low-frequency) with the fine details of another (high-frequency), creating a unique visual effect.
+![image](https://github.com/user-attachments/assets/54e93f17-b0b7-445b-9533-ce8a31fbc9d8)
 
----
+
 
 ## Author
 
-- **Group Members:** Add your names here.
+- **Group Members:** Muhammad Mubashir, Javid Mir.
 - **Assignment Title:** Assignment 01 – Computer Vision
 
 ---
 
 ## Acknowledgments
 
-- **Instructor:** [Instructor's Name]
+- **Instructor:** Engr Ahmed Khawaja 
 - **Course:** Computer Vision – Software Engineering Program
 
----
-
-Let me know if you'd like any modifications or additional sections!
